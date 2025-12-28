@@ -5,7 +5,7 @@
 
 Windows 安装包：
 
-https://github.com/Qilin-a/Floating-Notes/releases/latest
+https://github.com/Qilin-a/Floating-Notes/releases
 
 ## 界面预览
 
