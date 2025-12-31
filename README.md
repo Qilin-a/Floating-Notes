@@ -14,47 +14,47 @@ https://github.com/Qilin-a/Floating-Notes/releases/latest
 <table>
   <tr>
     <td>
-      <a href="./picture/image.png">
-        <img src="./picture/image.png" width="320" alt="主界面" />
+      <a href="./v0.2.0/image.png">  
+        <img src="./v0.2.0/image.png" width="320" alt="主界面" />
       </a>
     </td>
     <td>
-      <a href="./picture/image-2.png">
-        <img src="./picture/image-2.png" width="320" alt="悬浮窗" />
+      <a href="./v0.2.0/image-2.png">
+        <img src="./v0.2.0/image-2.png" width="320" alt="悬浮窗" />
       </a>
     </td>
     <td>
-      <a href="./picture/image-5.png">
-        <img src="./picture/image-5.png" width="320" alt="用户" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="./picture/image-3.png">
-        <img src="./picture/image-3.png" width="320" alt="AI 助手" />
-      </a>
-    </td>
-    <td>
-      <a href="./picture/image-4.png">
-        <img src="./picture/image-4.png" width="320" alt="使用帮助" />
-      </a>
-    </td>
-    <td>
-      <a href="./picture/image-6.png">
-        <img src="./picture/image-6.png" width="320" alt="待办" />
+      <a href="./v0.2.0/image-5.png">
+        <img src="./v0.2.0/image-5.png" width="320" alt="用户" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="./picture/image-1.png">
-        <img src="./picture/image-1.png" width="320" alt="标签管理" />
+      <a href="./v0.2.0/image-3.png">
+        <img src="./v0.2.0/image-3.png" width="320" alt="AI 助手" />
       </a>
     </td>
     <td>
-      <a href="./picture/image-7.png">
-        <img src="./picture/image-7.png" width="320" alt="到期提醒" />
+      <a href="./v0.2.0/image-4.png">
+        <img src="./v0.2.0/image-4.png" width="320" alt="使用帮助" />
+      </a>
+    </td>
+    <td>
+      <a href="./v0.2.0/image-6.png">
+        <img src="./v0.2.0/image-6.png" width="320" alt="待办" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="./v0.2.0/image-1.png">
+        <img src="./v0.2.0/image-1.png" width="320" alt="标签管理" />
+      </a>
+    </td>
+    <td>
+      <a href="./v0.2.0/image-7.png">
+        <img src="./v0.2.0/image-7.png" width="320" alt="到期提醒" />
       </a>
     </td>
     <td></td>
